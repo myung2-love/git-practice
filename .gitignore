@@ -1,0 +1,8 @@
+/secrets.yaml
+# *.yaml
+# !lions.yaml
+logs
+logs/
+logs/debug.log
+logs/*.c
+logs/**/debug.log
